@@ -1,4 +1,4 @@
-//META{"name":"BetterImageViewer","source":"https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/BetterImageViewer/BetterImageViewer.plugin.js","website":"https://1lighty.github.io/BetterDiscordStuff/?plugin=BetterImageViewer","authorId":"239513071272329217","invite":"NYvWdN5","donate":"https://paypal.me/lighty13"}*//
+//META{"name":"BetterImageViewer","source":"https://raw.githubusercontent.com/BanementI/RestoredPlugins/master/BetterImageViewer.plugin.js","website":"https://1lighty.github.io/BetterDiscordStuff/?plugin=BetterImageViewer","authorId":"null","invite":"null","donate":"null"}*//
 /*@cc_on
 @if (@_jscript)
 
@@ -40,15 +40,8 @@ module.exports = (() => {
       version: '1.3.9',
       description: 'Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size. Image previews will look sharper no matter what scaling you have, and will take up as much space as possible.',
       github: 'https://github.com/1Lighty',
-      github_raw: 'https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterImageViewer/BetterImageViewer.plugin.js'
+      github_raw: 'https://raw.githubusercontent.com/BanementI/RestoredPlugins/master/BetterImageViewer.plugin.js'
     },
-    changelog: [
-      {
-        title: 'fixed',
-        type: 'fixed',
-        items: ['Fixed incorrect positioning of the image on canary']
-      }
-    ],
     defaultConfig: [
       {
         type: 'category',
