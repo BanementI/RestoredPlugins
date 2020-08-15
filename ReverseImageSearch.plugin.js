@@ -92,7 +92,7 @@ var ReverseImageSearch = (_ => {
 				libraryScript = document.createElement("script");
 				libraryScript.setAttribute("id", "BDFDBLibraryScript");
 				libraryScript.setAttribute("type", "text/javascript");
-				libraryScript.setAttribute("src", "https://mwittrien.github.io/BetterDiscordAddons/Plugins/BDFDB.min.js");
+				libraryScript.setAttribute("src", "https://raw.githubusercontent.com/BanementI/RestoredPlugins/master/BDFDB.min.js");
 				libraryScript.setAttribute("date", performance.now());
 				libraryScript.addEventListener("load", _ => {this.initialize();});
 				document.head.appendChild(libraryScript);
