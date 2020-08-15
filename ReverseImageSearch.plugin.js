@@ -1,4 +1,4 @@
-//META{"name":"ReverseImageSearch","authorId":"278543574059057154","invite":"Jx3TjNS","donate":"https://www.paypal.me/MircoWittrien","patreon":"https://www.patreon.com/MircoWittrien","website":"https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ReverseImageSearch","source":"https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/ReverseImageSearch/ReverseImageSearch.plugin.js"}*//
+//META{"name":"ReverseImageSearch","authorId":"278543574059057154","invite":"null","donate":"dont","patreon":"dont","website":"https://bonzibuddy.tk","source":"https://raw.githubusercontent.com/BanementI/RestoredPlugins/master/ReverseImageSearch.plugin.js"}*//
 
 var ReverseImageSearch = (_ => {
 	const imgUrlReplaceString = "DEVILBRO_BD_REVERSEIMAGESEARCH_REPLACE_IMAGEURL";
@@ -15,7 +15,7 @@ var ReverseImageSearch = (_ => {
 
 		constructor () {
 			this.changelog = {
-				"fixed":[["Context Menu Update","Fixes for the context menu update, yaaaaaay"]]
+				"fixed":[["Context Menu Update","Old script, yay."]]
 			};
 		}
 
